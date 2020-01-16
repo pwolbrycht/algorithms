@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/sailor_mbp/CLionProjects/heap_sort_parallel
+-- Found OpenMP_C: -fopenmp=libomp -Wno-unused-command-line-argument  
+-- Found OpenMP_CXX: -fopenmp=libomp -Wno-unused-command-line-argument  
+-- Found OpenMP: TRUE   
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/sailor_mbp/CLionProjects/heap_sort_parallel/cmake-build-debug

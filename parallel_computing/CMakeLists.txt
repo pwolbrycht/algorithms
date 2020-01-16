@@ -3,7 +3,7 @@ project(parallel_computing)
 
 set(CMAKE_CXX_STANDARD 17)
 
-# For  OpenMP
+# For OpenMP
 set(CMAKE_C_COMPILER "/usr/local/Cellar/llvm/9.0.0_1/bin/clang")
 set(CMAKE_CXX_COMPILER "/usr/local/Cellar/llvm/9.0.0_1/bin/clang++")
 set(OPENMP_LIBRARIES "/usr/local/Cellar/llvm/9.0.0_1/lib")

@@ -6,13 +6,3 @@
 
 #IncludeRegexTransform: 
 
-/Users/sailor_mbp/CLionProjects/parallel_computing/main.cpp
-iostream
--
-omp.h
--
-ctime
--
-random
--
-

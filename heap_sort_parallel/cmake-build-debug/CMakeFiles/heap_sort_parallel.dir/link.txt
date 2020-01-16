@@ -1,0 +1,1 @@
+/usr/local/Cellar/llvm/9.0.0_1/bin/clang++   -fopenmp=libomp -Wno-unused-command-line-argument -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/heap_sort_parallel.dir/main.cpp.o  -o heap_sort_parallel  -L/usr/local/Cellar/llvm/9.0.0_1/lib 
