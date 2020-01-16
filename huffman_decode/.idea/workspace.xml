@@ -12,82 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17877575-afbb-42b8-b37f-ce70e83f8097" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../huffman/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/.idea/huffman.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/huffman.dir/CXX.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/huffman.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/huffman.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/huffman.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/huffman.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/huffman.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/huffman.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/huffman.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/huffman.dir/main.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/huffman.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/huffman" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/cmake-build-debug/huffman.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../huffman/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/huffman_decode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/huffman_decode.dir/CXX.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/huffman_decode.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/huffman_decode.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/huffman_decode.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/huffman_decode.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/huffman_decode.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/huffman_decode.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/huffman_decode.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/huffman_decode.dir/main.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/huffman_decode.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/huffman_decode" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/huffman_decode.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stdc++.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ff_matrix/cmake-build-debug/ff_matrix" beforeDir="false" afterPath="$PROJECT_DIR$/../ff_matrix/cmake-build-debug/ff_matrix" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heap_sort_parallel/cmake-build-debug/CMakeFiles/heap_sort_parallel.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../heap_sort_parallel/cmake-build-debug/CMakeFiles/heap_sort_parallel.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heap_sort_parallel/cmake-build-debug/heap_sort_parallel" beforeDir="false" afterPath="$PROJECT_DIR$/../heap_sort_parallel/cmake-build-debug/heap_sort_parallel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heap_sort_parallel/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../heap_sort_parallel/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +42,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="huffman_decode" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="huffman_decode" TARGET_NAME="huffman_decode" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="huffman_decode" RUN_TARGET_NAME="huffman_decode">
@@ -143,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579182131442</updated>
-      <workItem from="1579182132782" duration="735000" />
+      <workItem from="1579182132782" duration="2200000" />
     </task>
     <servers />
   </component>
@@ -151,21 +86,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1579182718884">
+    <state width="1638" height="143" key="GridCell.Tab.0.bottom" timestamp="1579186503271">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1579182718884" />
-    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1579182718883">
+    <state width="1638" height="143" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1579186503271" />
+    <state width="1638" height="143" key="GridCell.Tab.0.center" timestamp="1579186503270">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1579182718883" />
-    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1579182718883">
+    <state width="1638" height="143" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1579186503270" />
+    <state width="1638" height="143" key="GridCell.Tab.0.left" timestamp="1579186503270">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1579182718883" />
-    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1579182718883">
+    <state width="1638" height="143" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1579186503270" />
+    <state width="1638" height="143" key="GridCell.Tab.0.right" timestamp="1579186503271">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1579182718883" />
+    <state width="1638" height="143" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1579186503271" />
   </component>
 </project>

@@ -8,8 +8,7 @@
 
 using namespace std;
 
-// To heapify a subtree rooted with node i which is 
-// an index in arr[]. n is size of heap 
+// Heapify a subtree rooted with node i which is an index in arr[]. n is size of heap.
 void heapify(int arr[], int n, int i)
 {
     int largest = i;        // Initialize largest as root
@@ -30,7 +29,6 @@ void heapify(int arr[], int n, int i)
     }
 }
 
-// main function to do heap sort 
 void heapSort(int arr[], int n)
 {
     // Build heap (rearrange array) 
@@ -67,7 +65,7 @@ int main()
     srand((unsigned) time(0));
     int threadsNum = omp_get_num_threads();
 
-    for (int i=0; i<sizeOfArray; i+=threadsNum) {
+    for (int i=0; i<sizeOfArray; i++) {
         arr[i] = (rand() % 100) + 1;
         // cout << arr[i] << endl;
     }
