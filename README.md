@@ -1,2 +1,2 @@
 # algorithms
-some basic algorithms written in c++
+basic algorithms written in c++ on university course
